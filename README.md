@@ -1,1 +1,1 @@
-# ecommerce-sales-analysis
+# e-commerce-sales-analysis
